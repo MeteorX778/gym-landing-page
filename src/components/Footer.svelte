@@ -6,7 +6,7 @@
             <h1 class="font-semibold">
                 Swoley <span class="text-indigo-400">Moley</span>
             </h1>
-            <p>©2023 SWOLEY MOLEY LTD. All rights reserved.</p>
+            <p>©2025 SWOLEY MOLEY LTD. All rights reserved.</p>
         </div>
         <div class="flex flex-col gap-4">
             <p class="font-bold poppins text-base sm:text-lg">Support</p>
